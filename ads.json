@@ -1,1 +1,15 @@
-{}
+{
+    "auth": {
+        "version": "0.0.1",
+        "author_website": "https://github.com/shmorri/agama-test",
+        "project_name": "auth",
+        "github_uri": "https://github.com/shmorri/agama-test",
+        "license": "MIT",
+        "author": "shmorri",
+        "gh_repo_path": "agama-test",
+        "project_description": "Test authentication flow",
+        "last_updated": "1680631169301",
+        "gh_author": "shmorri",
+        "project_type": "community"
+    }
+}
